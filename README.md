@@ -1,4 +1,8 @@
-### Hi there 👋
+### :sunrise_over_mountains::earth_americas: Life is an adventure :mountain::bike::mountain:
+
+A passionate developer who loves technology of any kind and strongly believes that open-source software and hardware leads to a better future. Knowledge is meant to be shared.
+
+Find more about me on [my Instagram profile](https://www.instagram.com/juliannojungle/) and check my pinned repositories below (you can find some amazing work in progress there...)!
 
 <!--
 **juliannojungle/juliannojungle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
