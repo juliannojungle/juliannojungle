@@ -1,8 +1,10 @@
-### :earth_americas: Life is an adventure :sunrise_over_mountains::biking_man::mountain:
+### :earth_americas: Life is an adventure :mountain::biking_man:
 
 A passionate developer who loves technology of any kind and strongly believes that open-source software and hardware leads to a better future. Knowledge is meant to be shared.
 
-Find more about me on [Instagram](https://www.instagram.com/juliannojungle/), follow me on [Strava](https://www.strava.com/athletes/julianno) and check my pinned repositories below (you can find some amazing work in progress there...)!
+Check my pinned repositories below (you can find some amazing work in progress there...)!
+
+Find more about me on [Instagram](https://www.instagram.com/juliannojungle/) and follow me on [Strava](https://www.strava.com/athletes/julianno).
 
 ---
 ![Github](https://img.shields.io/static/v1?logo=github&message=Github&label=%E2%80%8C&color=181717)
