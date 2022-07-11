@@ -7,7 +7,6 @@ Find more about me on [Instagram](https://www.instagram.com/juliannojungle/), fo
 ---
 ![C#](https://img.shields.io/static/v1?logo=csharp&message=C%23&label=%E2%80%8C&color=purple)
 ![dotnet core](https://img.shields.io/static/v1?logo=visualstudiocode&message=dotnet%20core&label=%E2%80%8C&color=blue)
-![C++](https://img.shields.io/static/v1?logo=cplusplus&message=C%2b%2b&label=%E2%80%8C&color=lightgray)
 ![Delphi](https://img.shields.io/static/v1?logo=delphi&message=Delphi&label=%E2%80%8C&color=EE1F35)
 ![HTML5](https://img.shields.io/static/v1?logo=html5&message=HTML5&label=%E2%80%8C&color=orange&logoColor=orange)
 ![CSS3](https://img.shields.io/static/v1?logo=css3&message=CSS3&label=%E2%80%8C&color=1572B6)
@@ -18,8 +17,11 @@ Find more about me on [Instagram](https://www.instagram.com/juliannojungle/), fo
 ![MySQL](https://img.shields.io/static/v1?logo=mysql&message=MySQL&label=%E2%80%8C&color=4479A1&logoColor=white)
 ![PostgreSQL](https://img.shields.io/static/v1?logo=postgresql&message=PostgreSQL&label=%E2%80%8C&color=4169E1&logoColor=white)
 ![Vuetify](https://img.shields.io/static/v1?logo=vuetify&message=Vuetify&label=%E2%80%8C&color=65C2F7&logoColor=white)
+![C](https://img.shields.io/static/v1?logo=c&message=C&label=%E2%80%8C&color=A8B9CC)
+![C++](https://img.shields.io/static/v1?logo=cplusplus&message=C%2b%2b&label=%E2%80%8C&color=lightgray)
 ![Raspberry Pi](https://img.shields.io/static/v1?logo=raspberrypi&message=Raspberry%20Pi&label=%E2%80%8C&color=FC054F&logoColor=white)
 ![Arduino](https://img.shields.io/static/v1?logo=arduino&message=Arduino&label=%E2%80%8C&color=00979D&logoColor=white)
+![Shellscript](https://img.shields.io/static/v1?logo=gnubash&message=Shellscript&label=%E2%80%8C&color=ebeae8&logoColor=white)
 
 <!--
 **juliannojungle/juliannojungle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
