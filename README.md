@@ -9,8 +9,6 @@ Check my pinned repositories below (you can find some amazing work in progress t
 Find more about me on [Instagram](https://www.instagram.com/juliannojungle/) and follow me on [Strava](https://www.strava.com/athletes/julianno).
 
 ---
-
-[![Github](https://img.shields.io/static/v1?logo=github&message=Github&label=%E2%80%8C&color=181717)](#)
 [![Github](https://img.shields.io/static/v1?logo=github&message=Github&label=%E2%80%8C&color=181717)](#)
 [![C#](https://img.shields.io/static/v1?logo=csharp&message=C%23&label=%E2%80%8C&color=purple)](#)
 [![dotnet core](https://img.shields.io/static/v1?logo=visualstudiocode&message=dotnet%20core&label=%E2%80%8C&color=blue)](#)
