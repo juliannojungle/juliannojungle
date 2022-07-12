@@ -18,6 +18,7 @@ Find more about me on [Instagram](https://www.instagram.com/juliannojungle/) and
 [![Javascript](https://img.shields.io/static/v1?logo=javascript&message=Javascript&label=%E2%80%8C&color=ffff00&logoColor=ffff00)](#)
 [![Node.js](https://img.shields.io/static/v1?logo=nodedotjs&message=Node.js&label=%E2%80%8C&color=brightgreen&logoColor=brightgreen)](#)
 [![GraphQL](https://img.shields.io/static/v1?logo=graphql&message=GraphQL&label=%E2%80%8C&color=E10098)](#)
+[![Docker](https://img.shields.io/static/v1?logo=docker&message=Docker&label=%E2%80%8C&color=2496ED)](#)
 [![MsSQL](https://img.shields.io/static/v1?logo=microsoftsqlserver&message=MsSQL&label=%E2%80%8C&color=CC2927&logoColor=ffffff)](#)
 [![MySQL](https://img.shields.io/static/v1?logo=mysql&message=MySQL&label=%E2%80%8C&color=4479A1&logoColor=ffffff)](#)
 [![PostgreSQL](https://img.shields.io/static/v1?logo=postgresql&message=PostgreSQL&label=%E2%80%8C&color=4169E1&logoColor=ffffff)](#)
