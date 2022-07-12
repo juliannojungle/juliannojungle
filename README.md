@@ -10,10 +10,10 @@ Find more about me on [Instagram](https://www.instagram.com/juliannojungle/) and
 
 ---
 <a><img src="https://img.shields.io/static/v1?logo=github&message=Teste&label=%E2%80%8C&color=181717"></a>
-<a href=""><img src="https://img.shields.io/static/v1?logo=github&message=Teste&label=%E2%80%8C&color=181717"></a>
+<a href="javascript:undefined"><img src="https://img.shields.io/static/v1?logo=github&message=Teste&label=%E2%80%8C&color=181717"></a>
+<a href="javascript:undefined;"><img src="https://img.shields.io/static/v1?logo=github&message=Teste&label=%E2%80%8C&color=181717"></a>
+<a href="javascript:void(0);"><img src="https://img.shields.io/static/v1?logo=github&message=Teste&label=%E2%80%8C&color=181717"></a>
 <a href="#"><img src="https://img.shields.io/static/v1?logo=github&message=Teste&label=%E2%80%8C&color=181717"></a>
-[[https://img.shields.io/static/v1?logo=github&message=Teste&label=%E2%80%8C&color=181717]]
-![[https://img.shields.io/static/v1?logo=github&message=Teste&label=%E2%80%8C&color=181717]]
 
 [![Github](https://img.shields.io/static/v1?logo=github&message=Github&label=%E2%80%8C&color=181717)](#)
 [![C#](https://img.shields.io/static/v1?logo=csharp&message=C%23&label=%E2%80%8C&color=purple)](#)
