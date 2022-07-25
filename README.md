@@ -2,7 +2,7 @@
 
 A passionate developer who loves technology of any kind and strongly believes that `open-source software and hardware leads to a better future. Knowledge is meant to be shared`.
 
-> With a bachelor's degree in Computer Science and a graduate degree on Software Engineering, I work as full-stack developer on many projects for more than a decade @ AlterdataSoftware.
+> With a bachelor's degree in Computer Science and a graduate degree in Software Engineering, I work as full-stack developer on many projects for more than a decade @ AlterdataSoftware.
 
 Check my pinned repositories below (you can find some amazing work in progress there...)!
 
