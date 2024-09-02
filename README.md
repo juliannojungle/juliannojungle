@@ -4,7 +4,7 @@ A passionate developer who loves technology of any kind and strongly believes th
 
 > With a bachelor's degree in Computer Science and a graduate degree in Software Engineering, I work as full-stack developer on many projects for more than a decade @ AlterdataSoftware.
 
-Check my pinned repositories below (you can find some amazing work in progress there...)!
+Follow me and check my pinned repositories below (you can find some amazing work in progress there...)!
 
 Find more about me on [Instagram](https://www.instagram.com/juliannojungle/) and follow me on [Strava](https://www.strava.com/athletes/julianno).
 
