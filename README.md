@@ -10,8 +10,8 @@ Find more about me on [Instagram](https://www.instagram.com/juliannojungle/) and
 
 ---
 [![Github](https://img.shields.io/static/v1?logo=github&message=Github&label=%E2%80%8C&color=181717)](#)
-[![C#](https://img.shields.io/static/v1?logo=csharp&message=C%23&label=%E2%80%8C&color=purple)](#)
-[![dotnet core](https://img.shields.io/static/v1?logo=visualstudiocode&message=dotnet%20core&label=%E2%80%8C&color=blue)](#)
+[![C#](https://img.shields.io/static/v1?logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VmlzdWFsIFN0dWRpbyBDb2RlPC90aXRsZT48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIzLjE1IDIuNTg3TDE4LjIxLjIxYTEuNDk0IDEuNDk0IDAgMCAwLTEuNzA1LjI5bC05LjQ2IDguNjMtNC4xMi0zLjEyOGEuOTk5Ljk5OSAwIDAgMC0xLjI3Ni4wNTdMLjMyNyA3LjI2MUExIDEgMCAwIDAgLjMyNiA4Ljc0TDMuODk5IDEyIC4zMjYgMTUuMjZhMSAxIDAgMCAwIC4wMDEgMS40NzlMMS42NSAxNy45NGEuOTk5Ljk5OSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OTIgMS40OTIgMCAwIDAgMS43MDQuMjlsNC45NDItMi4zNzdBMS41IDEuNSAwIDAgMCAyNCAyMC4wNlYzLjkzOWExLjUgMS41IDAgMCAwLS44NS0xLjM1MnptLTUuMTQ2IDE0Ljg2MUwxMC44MjYgMTJsNy4xNzgtNS40NDh2MTAuODk2eiIvPjwvc3ZnPg==&message=C%23&label=%E2%80%8C&color=purple)](#)
+[![dotnet core](https://img.shields.io/static/v1?logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VmlzdWFsIFN0dWRpbyBDb2RlPC90aXRsZT48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIzLjE1IDIuNTg3TDE4LjIxLjIxYTEuNDk0IDEuNDk0IDAgMCAwLTEuNzA1LjI5bC05LjQ2IDguNjMtNC4xMi0zLjEyOGEuOTk5Ljk5OSAwIDAgMC0xLjI3Ni4wNTdMLjMyNyA3LjI2MUExIDEgMCAwIDAgLjMyNiA4Ljc0TDMuODk5IDEyIC4zMjYgMTUuMjZhMSAxIDAgMCAwIC4wMDEgMS40NzlMMS42NSAxNy45NGEuOTk5Ljk5OSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OTIgMS40OTIgMCAwIDAgMS43MDQuMjlsNC45NDItMi4zNzdBMS41IDEuNSAwIDAgMCAyNCAyMC4wNlYzLjkzOWExLjUgMS41IDAgMCAwLS44NS0xLjM1MnptLTUuMTQ2IDE0Ljg2MUwxMC44MjYgMTJsNy4xNzgtNS40NDh2MTAuODk2eiIvPjwvc3ZnPg==&message=dotnet%20core&label=%E2%80%8C&color=blue)](#)
 [![Delphi](https://img.shields.io/static/v1?logo=delphi&message=Delphi&label=%E2%80%8C&color=EE1F35)](#)
 [![HTML5](https://img.shields.io/static/v1?logo=html5&message=HTML5&label=%E2%80%8C&color=orange&logoColor=orange)](#)
 [![CSS3](https://img.shields.io/static/v1?logo=css3&message=CSS3&label=%E2%80%8C&color=1572B6)](#)
@@ -28,6 +28,8 @@ Find more about me on [Instagram](https://www.instagram.com/juliannojungle/) and
 [![Raspberry Pi](https://img.shields.io/static/v1?logo=raspberrypi&message=Raspberry%20Pi&label=%E2%80%8C&color=FC054F&logoColor=ffffff)](#)
 [![Arduino](https://img.shields.io/static/v1?logo=arduino&message=Arduino&label=%E2%80%8C&color=00979D&logoColor=ffffff)](#)
 [![Shellscript](https://img.shields.io/static/v1?logo=gnubash&message=Shellscript&label=%E2%80%8C&color=ebeae8&logoColor=ffffff)](#)
+[![Python](https://img.shields.io/static/v1?logo=python&message=Python&label=%E2%80%8C&color=4169E1&logoColor=ffe873)](#)
+[![Jupyter](https://img.shields.io/static/v1?logo=jupyter&message=Jupyter&label=%E2%80%8C&color=ff9100&logoColor=ff9100)](#)
 [![Markdown](https://img.shields.io/static/v1?logo=markdown&message=Markdown&label=%E2%80%8C&color=000000)](#)
 
 <!--
